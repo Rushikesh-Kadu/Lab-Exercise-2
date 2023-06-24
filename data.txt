@@ -1,0 +1,3 @@
+Python is my fav language, I have been practicing
+into python from 2 year
+I have also learned django framework and also developed 3 projects

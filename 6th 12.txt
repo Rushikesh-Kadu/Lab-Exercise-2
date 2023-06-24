@@ -1,0 +1,10 @@
+1. getcwd()                 : return current working directory
+2. mkdir("dir_Name")        : create specified directory
+3. mkdir("dir1/dir2")       : create subdirectory
+4. makedirs('dir1/dir2')    : To create multiple directorys at a time
+5. rmdir('dirName')         : To remove the particular directory
+6. removedirs('dir1/dir2')  : To remove entire tree of the directory
+7. rename(oldDir,newDir)    : To rename the directory 
+8. listdir(".")             : list all files contains by current dir  ( . represents root directory)
+9. system('date')           : prints date on cmd
+10. system('cls')           : To clear the cmd

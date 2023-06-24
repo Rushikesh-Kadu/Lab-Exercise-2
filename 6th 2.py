@@ -1,0 +1,6 @@
+n = int(input("Enter Line Number:"))
+f=open('file1.txt','r')
+lines = f.readlines()
+total_line = len(f.readlines())
+print(lines[n-1],end='')
+print(lines[total_line-n],end='')
